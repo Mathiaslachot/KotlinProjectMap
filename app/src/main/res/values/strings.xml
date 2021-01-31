@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">kooootLin</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="golden_gate_bridge_hint">Go to a bridge with a name that does not match the color that it is!</string>
+    <string name="golden_gate_bridge_location">at the Golden Gate bridge</string>
+
+    <string name="acceptPermission">Oui, les l\'autorisations</string>
+    <string name="noAcceptPermission">Non, je ne veux pas</string>
+
+    <string name="feature_geo">Pour accéder au service, veuillez accepter l\'autorisation</string>
+
+    <style name="Theme.AppCompat.Translucent">
+                <item name="android:background">#33000000</item>
+                <item name="android:windowNoTitle">true</item>
+                <item name="android:windowBackground">@android:color/transparent</item>
+                <item name="android:panelColorBackground">@null</item>
+                <item name="android:windowIsTranslucent">true</item>
+                <item name="android:windowAnimationStyle">@android:style/Animation</item>
+                <item name="android:windowFullscreen">true</item>
+                <item name="dialogTheme">@style/Theme.AppCompat.Light.Dialog</item>
+            </style>
+
+</resources>
